@@ -4,3 +4,6 @@
 del(a,b){
   return a-b;
 }
+test(name){
+  return "my name is"+name;
+}
