@@ -1,3 +1,6 @@
 ﻿add(a,b){
   return a+b;
 }
+del(a,b){
+  return a-b;
+}
